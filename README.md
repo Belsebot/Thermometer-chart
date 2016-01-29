@@ -3,6 +3,7 @@ Thermometer chart on webpage
 Draws temperature chart for webpage based on log file where temperature values are space separated
 
 example:
+
 therm 10:00 20.0 20.5 20.0 0.9 0.9 0.9 
 
 therm 11:00 20.5 20.5 20.0 1.1 1.1 1.1 
