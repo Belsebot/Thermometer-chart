@@ -1,5 +1,5 @@
-# Thermometer-chart
-Thermometer chart on webpage
+# Temperature-chart
+Temperature chart on webpage
 
 Draws temperature chart for webpage based on log file where temperature values are space separated
 
